@@ -76,6 +76,7 @@ class Program
     //    int count = 0;
     //    for (int i = 0; i < tasks.Count; i++)
     //    {
+
     //        string status = tasks[i].isCompleted ? "Completed" : "Not Completed";
     //        Console.WriteLine($"{i + 1}. \"{tasks[i].Description}\" - Priority: {tasks[i].Priority} - Status: {status}");
     //    }
